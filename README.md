@@ -1,4 +1,6 @@
 # Homework 2 - How do Taxis move in NYC?
+Explanatory Data Analysis homework for Alogithm of Data Minig @LaSapienza University
+
 ![How do Taxis move in NYC](https://secure.i.telegraph.co.uk/multimedia/archive/03031/taxi_3031331b.jpg )
 
 
